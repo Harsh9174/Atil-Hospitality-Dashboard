@@ -1,1 +1,1 @@
-# Atilq-Hospitality-Dashboard
+# AtilQ-Hospitality-Dashboard
