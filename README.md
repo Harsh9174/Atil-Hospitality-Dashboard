@@ -16,3 +16,5 @@
 - SQL
 - Python
 - Power BI
+# Dashboard Image
+![Image Alt Text](https://github.com/Harsh9174/AtilQ-Hospitality-Dashboard/blob/main/PowerBI%20Dashboard/Final%20Dashboard.png?raw=true)
