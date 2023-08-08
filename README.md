@@ -24,16 +24,16 @@
 * Data Cleaning Challenges:
   - Data Source Integration: Consolidating data from diverse sources within the hospitality chain, such as reservations, bookings, and customer feedback, presented challenges in aligning data formats and resolving discrepancies.
 
- - Handling Missing Values: Addressing missing values in the dataset required careful consideration, as some records might lack critical information, impacting the accuracy of subsequent analysis.
+  - Handling Missing Values: Addressing missing values in the dataset required careful consideration, as some records might lack critical information, impacting the accuracy of subsequent analysis.
 
- - Data Anomalies: Detecting and addressing outliers or anomalies in the data was important to ensure that unusual data points didn't skew analysis results and derived insights.
+  - Data Anomalies: Detecting and addressing outliers or anomalies in the data was important to ensure that unusual data points didn't skew analysis results and derived insights.
 
 * Dashboard Design Challenges:
- - Visualization Selection: Choosing the right visualizations to represent hospitality-related data, such as occupancy rates or customer feedback sentiment, required careful consideration of the most effective chart types.
+  - Visualization Selection: Choosing the right visualizations to represent hospitality-related data, such as occupancy rates or customer feedback sentiment, required careful consideration of the most effective chart types.
 
- - Balancing Complexity and Simplicity: Striking a balance between presenting comprehensive insights and maintaining a user-friendly interface was challenging to provide stakeholders with actionable insights.
+  - Balancing Complexity and Simplicity: Striking a balance between presenting comprehensive insights and maintaining a user-friendly interface was challenging to provide stakeholders with actionable insights.
 
- - Dynamic Data Display: Designing the dashboard to handle real-time data updates and allowing users to interact with different time periods or categories required thoughtful design and development.
+  - Dynamic Data Display: Designing the dashboard to handle real-time data updates and allowing users to interact with different time periods or categories required thoughtful design and development.
 
 
 
