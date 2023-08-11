@@ -35,5 +35,9 @@
 
   - Dynamic Data Display: Designing the dashboard to handle real-time data updates and allowing users to interact with different time periods or categories required thoughtful design and development.
 
+ # Conclusion
+
+ #### Our Leading Hospitality Chain Data Analysis project has illuminated crucial insights within the industry. By overcoming data cleaning challenges and designing an informative dashboard, we've provided stakeholders with actionable information. However, the ever-evolving nature of the hospitality sector emphasizes the need for ongoing analysis and adaptation to ensure the sustained success of our data-driven approach.
+
 
 
